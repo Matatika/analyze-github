@@ -1,0 +1,34 @@
+version: datasets/v0.2
+source: Github
+title: Latest 10 Pull Requests
+description: |-
+  Latest 10 pull requests.
+
+  #github
+metadata: |-
+  {
+      "name": "pull_requests",
+      "label": "Latest 10 Pull Requests",
+      "related_table": {
+        "columns": [
+            {"name": "created_at", "label": "Created At", "description": "Created At"},
+            {"name": "state", "label": "State", "description": "State"},
+            {"name": "closed_at", "label": "Closed At", "description": "Closed At"},
+            {"name": "org", "label": "Organization", "description": "Organization"},
+            {"name": "repo", "label": "Repository", "description": "Repository"},
+            {"name": "title", "label": "Title", "description": "Title"}
+        ]
+      }
+  }
+visualisation: '{"google-chart": {"chartType": "Table"}}'
+query: |-
+  SELECT
+    created_at "pull_requests.created_at",
+    state "pull_requests.state",
+    closed_at "pull_requests.closed_at",
+    org "pull_requests.org",
+    repo "pull_requests.repo",
+    title "pull_requests.title"
+  FROM pull_requests
+  ORDER BY created_at DESC
+  LIMIT 10
