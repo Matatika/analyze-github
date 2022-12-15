@@ -39,7 +39,7 @@ query: |-
   where date_day < (current_date - interval '1 day')::date --end
   ) 
   select date_day "commits.date_day"
-  , count(*) "commits.commit_count"
+  , count(*) - 1 "commits.commit_count"
   from dim_date dd
   left join commits c on c.commit__author__date::date = dd.date_day
   GROUP BY date_day
