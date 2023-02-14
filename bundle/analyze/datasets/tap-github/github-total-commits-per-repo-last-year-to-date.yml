@@ -1,5 +1,5 @@
 version: datasets/v0.2
-source: Github
+source: github
 title: Total Commits per Repo Last Year to Date
 description: |-
   The number of commits per repo for the last year to date

@@ -1,5 +1,5 @@
 version: datasets/v0.2
-source: Github
+source: github
 title: Commits per Day for the Last 30 Days
 description: |-
   Number of commits per day for the last 30 Days.

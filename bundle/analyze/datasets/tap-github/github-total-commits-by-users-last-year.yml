@@ -1,5 +1,5 @@
 version: datasets/v0.2
-source: Github
+source: github
 title: Total Commits per User for the Last Year
 description: |-
   Number of commits by each user for the last year.
