@@ -9,9 +9,6 @@ meltano install loader "$LOADER"
 meltano install transform dbt-"$EXTRACTOR"
 meltano install transformer dbt
 
-# Install dbt dependencies files
-meltano invoke dbt deps
-
 # Run the elt, and dbt commands and tests
 meltano elt "$EXTRACTOR" "$LOADER" --transform=skip
 meltano invoke dbt deps
