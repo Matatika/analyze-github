@@ -5,6 +5,7 @@ description: |-
   The number of commits per repo for the last year to date
 
   #github
+  #commits
 metadata: |-
   {
     "name": "commits",

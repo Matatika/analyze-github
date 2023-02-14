@@ -5,6 +5,7 @@ description: |-
   Latest 10 pull requests.
 
   #github
+  #latest
 metadata: |-
   {
       "name": "pull_requests",

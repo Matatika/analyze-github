@@ -5,6 +5,7 @@ description: |-
   Number of commits per day for the last 30 Days.
 
   #github
+  #commits
 metadata: |-
   {
     "name": "commits",
