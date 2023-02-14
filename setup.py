@@ -8,6 +8,8 @@ setup(
     package_data={
         "bundle": [
             "analyze/datasets/tap-github/*.yml",
+            "analyze/datasets/tap-github/issue_dashboard/*.yml",
+            "analyze/datasets/tap-github/pr_dashboard/*.yml",
             "analyze/channels/*.yml",
             "orchestrate/tap-github/elt.sh"
         ]
