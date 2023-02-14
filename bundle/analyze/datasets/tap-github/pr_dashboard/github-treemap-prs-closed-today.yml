@@ -1,5 +1,5 @@
 version: datasets/v0.2
-source: Github
+source: github
 title: PRs Closed Today
 questions: what are the total number of PRs closed today?
 description: |-

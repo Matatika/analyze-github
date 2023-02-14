@@ -1,5 +1,5 @@
 version: datasets/v0.2
-source: Github
+source: github
 title: Issues Created Today
 questions: what are the total number of issues created today?
 description: |-

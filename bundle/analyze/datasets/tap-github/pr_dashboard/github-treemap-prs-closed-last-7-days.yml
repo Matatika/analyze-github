@@ -1,10 +1,10 @@
 version: datasets/v0.2
-source: Github
+source: github
 title: PRs Closed Last 7 Days
 questions: what are the total number of PRs we closed in the last 7 days?
 description: |-
   Total number of PRs closed in the last 7 days.
-  
+
   #github
   #pr-dashboard
 metadata: |-
