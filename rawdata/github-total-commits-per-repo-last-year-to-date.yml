@@ -1,0 +1,15 @@
+github-total-commits-per-repo-last-year-to-date:
+  [
+    {
+      "commits.commit_count": "858",
+      "commits.org_and_repo": "Matatika/matatika-docs",
+    },
+    {
+      "commits.commit_count": "571",
+      "commits.org_and_repo": "Matatika/matatika-examples",
+    },
+    {
+      "commits.commit_count": "152",
+      "commits.org_and_repo": "Matatika/tap-spotify",
+    },
+  ]

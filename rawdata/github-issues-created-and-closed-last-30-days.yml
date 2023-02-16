@@ -1,0 +1,153 @@
+github-issues-created-and-closed-last-30-days:
+  [
+    {
+      "fds.date": "2023-01-18",
+      "fds.created_issues": "6",
+      "fds.closed_issues": "3",
+    },
+    {
+      "fds.date": "2023-01-19",
+      "fds.created_issues": "6",
+      "fds.closed_issues": "3",
+    },
+    {
+      "fds.date": "2023-01-20",
+      "fds.created_issues": "1",
+      "fds.closed_issues": "1",
+    },
+    {
+      "fds.date": "2023-01-21",
+      "fds.created_issues": "0",
+      "fds.closed_issues": "2",
+    },
+    {
+      "fds.date": "2023-01-22",
+      "fds.created_issues": "0",
+      "fds.closed_issues": "1",
+    },
+    {
+      "fds.date": "2023-01-23",
+      "fds.created_issues": "4",
+      "fds.closed_issues": "1",
+    },
+    {
+      "fds.date": "2023-01-24",
+      "fds.created_issues": "5",
+      "fds.closed_issues": "4",
+    },
+    {
+      "fds.date": "2023-01-25",
+      "fds.created_issues": "8",
+      "fds.closed_issues": "8",
+    },
+    {
+      "fds.date": "2023-01-26",
+      "fds.created_issues": "5",
+      "fds.closed_issues": "5",
+    },
+    {
+      "fds.date": "2023-01-27",
+      "fds.created_issues": "3",
+      "fds.closed_issues": "1",
+    },
+    {
+      "fds.date": "2023-01-28",
+      "fds.created_issues": "0",
+      "fds.closed_issues": "1",
+    },
+    {
+      "fds.date": "2023-01-29",
+      "fds.created_issues": "3",
+      "fds.closed_issues": "0",
+    },
+    {
+      "fds.date": "2023-01-30",
+      "fds.created_issues": "3",
+      "fds.closed_issues": "3",
+    },
+    {
+      "fds.date": "2023-01-31",
+      "fds.created_issues": "4",
+      "fds.closed_issues": "4",
+    },
+    {
+      "fds.date": "2023-02-01",
+      "fds.created_issues": "2",
+      "fds.closed_issues": "2",
+    },
+    {
+      "fds.date": "2023-02-02",
+      "fds.created_issues": "3",
+      "fds.closed_issues": "2",
+    },
+    {
+      "fds.date": "2023-02-03",
+      "fds.created_issues": "8",
+      "fds.closed_issues": "4",
+    },
+    {
+      "fds.date": "2023-02-04",
+      "fds.created_issues": "2",
+      "fds.closed_issues": "0",
+    },
+    {
+      "fds.date": "2023-02-05",
+      "fds.created_issues": "1",
+      "fds.closed_issues": "3",
+    },
+    {
+      "fds.date": "2023-02-06",
+      "fds.created_issues": "2",
+      "fds.closed_issues": "3",
+    },
+    {
+      "fds.date": "2023-02-07",
+      "fds.created_issues": "6",
+      "fds.closed_issues": "5",
+    },
+    {
+      "fds.date": "2023-02-08",
+      "fds.created_issues": "5",
+      "fds.closed_issues": "8",
+    },
+    {
+      "fds.date": "2023-02-09",
+      "fds.created_issues": "5",
+      "fds.closed_issues": "7",
+    },
+    {
+      "fds.date": "2023-02-10",
+      "fds.created_issues": "3",
+      "fds.closed_issues": "4",
+    },
+    {
+      "fds.date": "2023-02-11",
+      "fds.created_issues": "2",
+      "fds.closed_issues": "4",
+    },
+    {
+      "fds.date": "2023-02-12",
+      "fds.created_issues": "1",
+      "fds.closed_issues": "0",
+    },
+    {
+      "fds.date": "2023-02-13",
+      "fds.created_issues": "6",
+      "fds.closed_issues": "5",
+    },
+    {
+      "fds.date": "2023-02-14",
+      "fds.created_issues": "5",
+      "fds.closed_issues": "2",
+    },
+    {
+      "fds.date": "2023-02-15",
+      "fds.created_issues": "8",
+      "fds.closed_issues": "3",
+    },
+    {
+      "fds.date": "2023-02-16",
+      "fds.created_issues": "2",
+      "fds.closed_issues": "0",
+    },
+  ]

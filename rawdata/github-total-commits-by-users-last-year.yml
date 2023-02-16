@@ -1,0 +1,8 @@
+github-total-commits-by-users-last-year:
+  [
+    { "commits.commit_count": "2184", "commits.committer_name": "Aaron" },
+    { "commits.commit_count": "1949", "commits.committer_name": "Reuben" },
+    { "commits.commit_count": "989", "commits.committer_name": "Dan" },
+    { "commits.commit_count": "740", "commits.committer_name": "Gabi" },
+    { "commits.commit_count": "714", "commits.committer_name": "Pilot" },
+  ]
