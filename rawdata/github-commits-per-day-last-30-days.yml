@@ -1,4 +1,4 @@
-github-commits-per-day-last-30-days:
+github-commits-per-day-last-30-days: |-
   [
     { "commits.date_day": "2023-01-17", "commits.commit_count": "5" },
     { "commits.date_day": "2023-01-18", "commits.commit_count": "6" },
@@ -29,5 +29,5 @@ github-commits-per-day-last-30-days:
     { "commits.date_day": "2023-02-12", "commits.commit_count": "0" },
     { "commits.date_day": "2023-02-13", "commits.commit_count": "2" },
     { "commits.date_day": "2023-02-14", "commits.commit_count": "1" },
-    { "commits.date_day": "2023-02-15", "commits.commit_count": "3" },
+    { "commits.date_day": "2023-02-15", "commits.commit_count": "3" }
   ]
