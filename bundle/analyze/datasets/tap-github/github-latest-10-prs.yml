@@ -1,5 +1,5 @@
 version: datasets/v0.2
-source: github
+source: tap-github
 title: Latest 10 Pull Requests
 questions: What are the latest 10 pull requests?
 description: |-

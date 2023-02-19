@@ -1,5 +1,5 @@
 version: datasets/v0.2
-source: github
+source: tap-github
 title: Issues Created Last 30 Days
 questions: What are the issues created in the last 30 days?
 description: |-

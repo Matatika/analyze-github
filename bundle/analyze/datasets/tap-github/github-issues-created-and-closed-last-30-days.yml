@@ -1,5 +1,5 @@
 version: datasets/v0.2
-source: github
+source: tap-github
 title: Issues Created and Closed Last 30 Days
 questions: How many issues have been created and closed during the last 30 days?
 description: |-
