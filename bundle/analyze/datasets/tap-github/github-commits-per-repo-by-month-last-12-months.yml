@@ -1,6 +1,7 @@
 version: datasets/v0.2
 source: github
 title: Commits Per Repo Last 12 Months
+questions: What were the number of commits per repo for the last 12 months?
 description: |-
   Total commits per repo for the last 12 months
 

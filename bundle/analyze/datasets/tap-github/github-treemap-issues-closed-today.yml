@@ -1,7 +1,7 @@
 version: datasets/v0.2
 source: github
 title: Issues Closed Today
-questions: what are the total number of issues closed today?
+questions: What are the total number of issues closed today?
 description: |-
   Total number of issues closed today.
 

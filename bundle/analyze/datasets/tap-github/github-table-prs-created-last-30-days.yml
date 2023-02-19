@@ -1,7 +1,7 @@
 version: datasets/v0.2
 source: github
 title: PRs Created Last 30 Days
-questions: what are the prs created in the last 30 days?
+questions: What are the pull requests created in the last 30 days?
 description: |-
   PRs created in the last 30 days.
 

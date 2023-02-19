@@ -1,6 +1,7 @@
 version: datasets/v0.2
 source: github
 title: Latest 10 Issues
+questions: What are the latest 10 issues?
 description: |-
   Latest 10 issues.
 

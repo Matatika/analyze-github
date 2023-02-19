@@ -1,6 +1,7 @@
 version: datasets/v0.2
 source: github
 title: Commits per Day for the Last 30 Days
+questions: What were the number of commits per day for the last 30 days?
 description: |-
   Number of commits per day for the last 30 Days.
 
