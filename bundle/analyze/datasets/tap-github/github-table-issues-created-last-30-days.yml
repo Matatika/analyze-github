@@ -30,7 +30,7 @@ query: |-
     , user__login "issues.user_login"
     , repo "issues.repo"
     , state "issues.state"
-    , url "issues.url"
+    , html_url "issues.url"
     , assignees "issues.assignees"
   FROM issues
   WHERE created_at::date >= current_date - INTERVAL '30 day'

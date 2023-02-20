@@ -30,7 +30,7 @@ query: |-
     , title "prs.title"
     , user__login "prs.user_login"
     , repo "prs.repo"
-    , url "prs.url"
+    , html_url "prs.url"
     , assignees "prs.assignees"
   FROM issues as prs
   WHERE closed_at::date >= current_date - INTERVAL '30 day'

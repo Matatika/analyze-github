@@ -31,7 +31,7 @@ query: |-
     , title "issues.title"
     , user__login "issues.user_login"
     , repo "issues.repo"
-    , url "issues.url"
+    , html_url "issues.url"
     , assignees "issues.assignees"
   FROM issues
   WHERE closed_at::date >= current_date - INTERVAL '30 day'
