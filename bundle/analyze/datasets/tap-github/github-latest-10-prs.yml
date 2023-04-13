@@ -5,6 +5,8 @@ questions: What are the latest 10 pull requests?
 description: |-
   Latest 10 pull requests.
 
+  [GitHub PRs Export - Data On All PRs](github-export-all-prs)
+
   #github
   #latest
 metadata: |-

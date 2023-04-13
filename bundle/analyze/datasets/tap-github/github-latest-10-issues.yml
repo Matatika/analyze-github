@@ -5,6 +5,8 @@ questions: What are the latest 10 issues?
 description: |-
   Latest 10 issues.
 
+  [GitHub Issues Export - Data On All Issues](github-export-all-issues)
+
   #github
   #latest
 metadata: |-

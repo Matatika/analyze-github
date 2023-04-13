@@ -5,6 +5,8 @@ questions: What were the issues closed in the last 30 days?
 description: |-
   Issues closed in the last 30 days.
 
+  [GitHub Issues Export - Data On All Issues](github-export-all-issues)
+
   #github
   #dashboard
   #issue-dashboard

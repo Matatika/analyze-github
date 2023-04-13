@@ -5,6 +5,8 @@ questions: What are the pull requests created in the last 30 days?
 description: |-
   PRs created in the last 30 days.
 
+  [GitHub PRs Export - Data On All PRs](github-export-all-prs)
+
   #github
   #pr-dashboard
 metadata: |-
