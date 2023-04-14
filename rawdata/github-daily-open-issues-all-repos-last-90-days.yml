@@ -1,4 +1,4 @@
-github-daily-open-issues-all-repos-last-90-days:
+github-daily-open-issues-all-repos-last-90-days: |-
   [
     { "gdrh.date": "2023-01-01", "gdrh.issues": "15" },
     { "gdrh.date": "2023-01-02", "gdrh.issues": "13" },
@@ -89,5 +89,5 @@ github-daily-open-issues-all-repos-last-90-days:
     { "gdrh.date": "2023-03-28", "gdrh.issues": "11" },
     { "gdrh.date": "2023-03-29", "gdrh.issues": "28" },
     { "gdrh.date": "2023-03-30", "gdrh.issues": "21" },
-    { "gdrh.date": "2023-03-31", "gdrh.issues": "15" },
+    { "gdrh.date": "2023-03-31", "gdrh.issues": "15" }
   ]

@@ -1,4 +1,4 @@
-github-daily-open-prs-all-repos-last-90-days:
+github-daily-open-prs-all-repos-last-90-days: |-
   [
     { "gdrh.date": "2023-01-01", "gdrh.prs": "15" },
     { "gdrh.date": "2023-01-02", "gdrh.prs": "13" },
@@ -89,5 +89,5 @@ github-daily-open-prs-all-repos-last-90-days:
     { "gdrh.date": "2023-03-28", "gdrh.prs": "11" },
     { "gdrh.date": "2023-03-29", "gdrh.prs": "28" },
     { "gdrh.date": "2023-03-30", "gdrh.prs": "21" },
-    { "gdrh.date": "2023-03-31", "gdrh.prs": "15" },
+    { "gdrh.date": "2023-03-31", "gdrh.prs": "15" }
   ]
