@@ -5,8 +5,6 @@ questions: What are the issues created in the last 30 days?
 description: |-
   Issues created in the last 30 days.
 
-  [GitHub Issues Export - Data On All Issues](github-export-all-issues)
-
   #github
   #issue-dashboard
 metadata: |-
